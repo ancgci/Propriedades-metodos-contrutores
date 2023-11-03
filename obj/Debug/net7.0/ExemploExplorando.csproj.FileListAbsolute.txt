@@ -1,0 +1,14 @@
+C:\Users\srant\OneDrive\Documentos\Educacional\QA-Dio\WexQA\03112023\bin\Debug\net7.0\ExemploExplorando.exe
+C:\Users\srant\OneDrive\Documentos\Educacional\QA-Dio\WexQA\03112023\bin\Debug\net7.0\ExemploExplorando.deps.json
+C:\Users\srant\OneDrive\Documentos\Educacional\QA-Dio\WexQA\03112023\bin\Debug\net7.0\ExemploExplorando.runtimeconfig.json
+C:\Users\srant\OneDrive\Documentos\Educacional\QA-Dio\WexQA\03112023\bin\Debug\net7.0\ExemploExplorando.dll
+C:\Users\srant\OneDrive\Documentos\Educacional\QA-Dio\WexQA\03112023\bin\Debug\net7.0\ExemploExplorando.pdb
+C:\Users\srant\OneDrive\Documentos\Educacional\QA-Dio\WexQA\03112023\obj\Debug\net7.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srant\OneDrive\Documentos\Educacional\QA-Dio\WexQA\03112023\obj\Debug\net7.0\ExemploExplorando.AssemblyInfoInputs.cache
+C:\Users\srant\OneDrive\Documentos\Educacional\QA-Dio\WexQA\03112023\obj\Debug\net7.0\ExemploExplorando.AssemblyInfo.cs
+C:\Users\srant\OneDrive\Documentos\Educacional\QA-Dio\WexQA\03112023\obj\Debug\net7.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+C:\Users\srant\OneDrive\Documentos\Educacional\QA-Dio\WexQA\03112023\obj\Debug\net7.0\ExemploExplorando.dll
+C:\Users\srant\OneDrive\Documentos\Educacional\QA-Dio\WexQA\03112023\obj\Debug\net7.0\refint\ExemploExplorando.dll
+C:\Users\srant\OneDrive\Documentos\Educacional\QA-Dio\WexQA\03112023\obj\Debug\net7.0\ExemploExplorando.pdb
+C:\Users\srant\OneDrive\Documentos\Educacional\QA-Dio\WexQA\03112023\obj\Debug\net7.0\ExemploExplorando.genruntimeconfig.cache
+C:\Users\srant\OneDrive\Documentos\Educacional\QA-Dio\WexQA\03112023\obj\Debug\net7.0\ref\ExemploExplorando.dll
